@@ -1,0 +1,22 @@
+delete, lookup - pstmt,conn
+
+환경설정.
+db연결, 쿼리(insert, select, delete, update),
+getset, 난수10개 중복x
+form 설명(tr, td, form, style)
+script 설명
+input 설명
+warming 대부분 안쓰는 코드, 
+메모리 낭비(static 함수 필요없음), 버전 호환x
+tr, td 테이블 생성
+1칸씩 올림, auto_increment(primary key) 초기화
+try catch exception 이유
+response
+realpath, 업로드
+db 데이터 담기
+dbconnection 함수
+file 데이터 담기
+jxl, cos.jar 설명, import error 해결법
+
+classpath entry will not be exported or published. runtime classnotfoundexceptions may result
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=okskmk2&logNo=220804034787

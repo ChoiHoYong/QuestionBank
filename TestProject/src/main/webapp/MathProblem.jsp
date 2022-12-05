@@ -9,8 +9,6 @@
 <html>
 <head>
 <title>:o</title>
-<!--파비콘 설정하다가 실패 -->
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"> 
 </head>
 <body>
 	<h2>문제 은행입니다.</h2>	
